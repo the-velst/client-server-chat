@@ -38,8 +38,8 @@ This project supports:
    ```bash
    python client.py
    ```
-4. Chat begins.
-5. To end the chat client should type 'bye'.
+4. Chat begins — type `bye` to end the session.
+
 
 ---
 ## Running on Two Computers (Same WiFi)
@@ -78,22 +78,18 @@ host = '172.20.10.5'
 ```bash
 python client.py
 ```
-### 4. Chat begins.
-### 5. To end the chat client should type 'bye'.
 
 ---
 
 ## Screenshots
-#### Server's View
 
+### Server View
 ![Server Screenshot](./images/server.jpg)
 
-#### Client's View
-
+### Client View
 ![Chat Screenshot](./images/client.jpg)
 
-Successful chat between two laptops
-(Sensitive information blurred intentionally)
+*(Sensitive information blurred intentionally)*
 
 ---
 
@@ -103,8 +99,8 @@ Successful chat between two laptops
 
 ---
 
-## Notes
-
+## Important
+- Start the server first, then launch the client.
 - If using different computers, ensure both devices are on same WiFi.
 - Avoid using VPN during connection.
 - You may need to allow Python in Windows Firewall the first time you run it.
