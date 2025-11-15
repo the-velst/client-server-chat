@@ -42,7 +42,7 @@ This project supports:
 
 
 ---
-## Running on Two Computers (Same WiFi)
+## 🌐 Running on Two Computers (Same WiFi)
 
 ### 1. On the server laptop:
 Run the server:
