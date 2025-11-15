@@ -84,9 +84,13 @@ python client.py
 ---
 
 ## Screenshots
-Server running and accepting client
+#### Server's View
 
+![Server Screenshot](./images/server.jpg)
 
+#### Client's View
+
+![Chat Screenshot](./images/client.jpg)
 
 Successful chat between two laptops
 (Sensitive information blurred intentionally)
