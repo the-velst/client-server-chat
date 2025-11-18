@@ -25,7 +25,7 @@ This project supports:
 
 ---
 
-## 💻 Running on the Same Computer
+## Running on the Same Computer
 
 1. Open **two terminals** on the same machine.
 2. In the first terminal:
@@ -42,7 +42,7 @@ This project supports:
 
 
 ---
-## 🌐 Running on Two Computers (Same WiFi)
+## Running on Two Computers (Same WiFi)
 
 ### 1. On the server laptop:
 Run the server:
